@@ -5,9 +5,6 @@ title: Request
 labels: ''
 assignees: ''
 
----
-
----
 name: Request - Template
 about: Template for making requests
 title: Request Template
